@@ -96,7 +96,7 @@ class ClientReview extends Component {
                 <Fragment>
 
                     <Container className="text-center">
-                        <h1 className="serviceMainTitle">CLIENT SAYS</h1>
+                        <h1 className="serviceMainTitle">ABOUT ME</h1>
                         <Slider {...settings}>
 
                             {myView}

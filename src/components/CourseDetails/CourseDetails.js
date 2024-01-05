@@ -62,8 +62,8 @@ class CourseDetails extends Component {
                                 <Row>
                                     <Col sm={12} md={6} lg={6}>
                                         <h3 className="CourseFullTitle">{this.state.LongTitle}</h3>
-                                        <h5 className="CourseSubTitle">JavaScript={this.state.TotalLecture}</h5>
-                                        <h5 className="CourseSubTitle mt-0">NodeJs={this.state.TotalStudent}</h5>
+                                        <h5 className="CourseSubTitle">C = {this.state.TotalLecture}%</h5>
+                                        <h5 className="CourseSubTitle mt-0">JavaScript = {this.state.TotalStudent}%</h5>
                                     </Col>
 
                                     <Col sm={12} md={6} lg={6}>
@@ -76,7 +76,7 @@ class CourseDetails extends Component {
                     <Container className="mt-5">
                         <Row>
                             <Col sm={12} md={6} lg={6}>
-                                <h1 className="serviceName">All Skills You Need</h1>
+                                <h1 className="serviceName">My Other Skills</h1>
                                 { ReactHtmlParser(this.state.SkillAll) }
                                 <Button  target="_blank" href={"//"+this.state.MoreInfoURL}  variant="primary">More Info</Button>
                             </Col>

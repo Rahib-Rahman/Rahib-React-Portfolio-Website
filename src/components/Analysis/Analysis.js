@@ -59,7 +59,7 @@ class Analysis extends Component {
                 <Container className="text-center">
                     <h1 className="serviceMainTitle">MY TOOLS & TECHNOLOGY</h1>
                     <Row>
-                        <Col style={{width: '50%', height: '300px'}} lg={6} md={12} sm={12}>
+                        <Col style={{width: '50%', height: '400px'}} lg={6} md={12} sm={12}>
 
                             <ResponsiveContainer>
                                 <BarChart width={100} height={300} data={this.state.data}>

@@ -26,7 +26,7 @@ class Summary extends Component {
                                                     )}
                                                 </CountUp>
                                             </h1>
-                                            <h4 className="countTitle">ReactJs</h4>
+                                            <h4 className="countTitle">C</h4>
                                             <hr className="bg-white"/>
                                         </Col>
                                         <Col>
@@ -39,7 +39,7 @@ class Summary extends Component {
                                                     )}
                                                 </CountUp>
                                             </h1>
-                                            <h4 className="countTitle">NodeJs</h4>
+                                            <h4 className="countTitle">JavaScript</h4>
                                             <hr className="bg-white"/>
                                         </Col>
                                     </Row>
