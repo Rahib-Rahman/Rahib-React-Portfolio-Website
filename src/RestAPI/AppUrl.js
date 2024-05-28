@@ -1,5 +1,5 @@
 class AppUrl {
-    static BaseUrl='https://rahib777.000webhostapp.com/';
+    static BaseUrl='https://rahib378.000webhostapp.com/';
     static HomeTopTitle=this.BaseUrl+'/HomeTopTitle';
     static TechDesc=this.BaseUrl+'/TechDesc';
     static TotalProjectClient=this.BaseUrl+'/TotalProjectClient';
