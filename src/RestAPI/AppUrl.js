@@ -1,5 +1,5 @@
 class AppUrl {
-    static BaseUrl='https://rahib-rahman-react.ct.ws/';
+    static BaseUrl='http://rahib-rahman-react.ct.ws/';
     static HomeTopTitle=this.BaseUrl+'/HomeTopTitle';
     static TechDesc=this.BaseUrl+'/TechDesc';
     static TotalProjectClient=this.BaseUrl+'/TotalProjectClient';
